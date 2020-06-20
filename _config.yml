@@ -9,6 +9,7 @@ extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: 
 baseurl: "https://takagotch.github.io/page116"
+bathpath:  https://takagotch.github.io/page116"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
